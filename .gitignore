@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 # azureml config
-azureml/config.json
+config.json
